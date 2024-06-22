@@ -1,6 +1,13 @@
+import Link from "next/link"
+
 const Homepage = () => {
   return (
-    <div className=''>Homepage</div>
+    <div className=''>
+      <Link href="sign-in">
+      hore
+      
+      </Link>
+    </div>
   )
 }
 
